@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
-# Header
+# Project Template
 
-This is the home
+This is meant to be a documentation branch of a project.  I'll keep it in 
+    ~/Dropbox/ProjectDocs/projname
+Hie
