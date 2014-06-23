@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Uvic Ocean Physics
 tagline:          'documentation !'
 description:      ''
-url:              http://web.uvic.ca/~jklymak
-baseurl:		  '/projtemplate'
+#url:              http://web.uvic.ca/~jklymak
+#baseurl:		  '/projtemplate'
 
 author:
   name:           'Jody Klymak'
